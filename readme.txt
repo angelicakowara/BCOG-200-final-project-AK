@@ -1,3 +1,5 @@
+Documentation file: An overview/outline/draft of the material that you will provide to users to guide them through using your program. Examples of elements to include are: names of functions/methods and the argument options that go with them, example use cases, introduction to the logic ("sales pitch") for your program
+
 Description: 
 The aim of this project is to provide the user with a quantitative number, either an amount of time or a walking/running speed, that needs to be met to burn a certain number of calories. The idea right now is that the 
 user will input their height, weight, desired number of calories to be burned, and then one of the following: a) an amount of time they would like to be active or b) a speed they would like to walk/run at, and then
